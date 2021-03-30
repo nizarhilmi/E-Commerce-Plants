@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "472085299890",
+    "project_id": "epsilon-97c2f",
+    "storage_bucket": "epsilon-97c2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472085299890:android:3350ab4d8eee82573bbfab",
+        "android_client_info": {
+          "package_name": "com.epsilon.plants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472085299890-giqgnranqhhhqr04afpj0paqekcq7cob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtIARQ0taxVt0eGO035mrxkJAS4bBYunE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472085299890-giqgnranqhhhqr04afpj0paqekcq7cob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
